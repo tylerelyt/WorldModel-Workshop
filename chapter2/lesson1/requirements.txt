@@ -1,0 +1,4 @@
+gymnasium[toy-text]>=0.29.0
+numpy>=1.21.0
+matplotlib>=3.5.0
+pygame>=2.0.0
